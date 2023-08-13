@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Crypto-Mike-19
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Programming/Game Development
+- 🌱 I’m currently learning Python/C/GDScript
 - 📫 How to reach me m.shirra07@gmail.com
 
 <!---
